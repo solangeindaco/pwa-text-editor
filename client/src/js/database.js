@@ -25,8 +25,8 @@ export const putDb = async (content) => {
   // Open up the desired object store.
   const store = tx.objectStore('jate');
 
-  // Use the .add() method on the store and pass in the content.
-  const request = store.add({ jate: content });
+  // Use the .putt() method on the store and pass in the content.
+  const request = store.put({ id: 1, value: content });
 
   // Get confirmation of the request.
   const result = await request;
@@ -43,7 +43,7 @@ export const getDb = async () => {
   const tx = todosDb.transaction('jate', 'readonly');
 
   // Open up the desired object store.
-  const store = tx.objectStore('jate');
+  const store = tx.objectStore(1);
 
   // Use the .getAll() method to get all data in the database.
   const request = store.getAll();
