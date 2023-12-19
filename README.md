@@ -23,7 +23,7 @@ Repository URL: https://github.com/solangeindaco/pwa-text-editor
 
 The following video shows the text editor application's appearance and functionality:
 
-[Text editor video](https://drive.google.com/file/d/1h-yqOK435pdAugtzUDx0aAUKaTjPvMDf/view)
+[Text editor video]()
 
 
 ## Credits
