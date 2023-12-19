@@ -24,7 +24,7 @@ Deployed application: https://pwa-text-editor-dhr3.onrender.com/
 
 The following video shows the text editor application's appearance and functionality:
 
-[Text editor video]()
+[Text editor video](https://drive.google.com/file/d/13PquN7k8qYmAvjApOiOZyj7rTFlFC0Pf/view)
 
 
 ## Credits
