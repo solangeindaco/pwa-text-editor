@@ -18,7 +18,7 @@ I learn:
 ## Installation
 
 Repository URL: https://github.com/solangeindaco/pwa-text-editor  
-Deployed application: https://pwa-text-editor-dhr3.onrender.com/   
+Deployed application: https://pwa-text-editor-dhr3.onrender.com   
 
 ## Usage
 
